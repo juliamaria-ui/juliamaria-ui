@@ -1,5 +1,5 @@
-##Olá, eu sou Julia Maria 👋
-###Information Systems Student | Specializing in UI/UX | JAVA | Front-end**
+## Olá, eu sou Julia Maria 👋
+### Information Systems Student | Specializing in UI/UX | JAVA | Front-end
 
 ---
 
