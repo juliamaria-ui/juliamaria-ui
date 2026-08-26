@@ -1,16 +1,16 @@
-## Hi there 👋
+##Olá, eu sou Julia Maria 👋
+###Information Systems Student | Specializing in UI/UX | JAVA | Front-end**
 
-<!--
-**juliamaria-ui/juliamaria-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre Mim 
+- Atualmente trabalhando no LICA (Laboratório de Inteligência computacional aplicada)
+- Atualmente estudando na Universidade Estadual de Montes Claros (UNIMONTES)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interessada em criação de interfaces, prototipação, usabilidade e experiência do usuário
+Também tenho interesse em Java, MySQL e desenvolvimento de sistemas
+
+- 👩‍💻Foco de desenvolvimento:
+UI/UX, desenvolvimento web e criação de interfaces funcionais, intuitivas, organizadas e responsivas.
+- ✉️Contato profissional: julia.maria.pro0@gmail.com |
+
